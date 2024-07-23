@@ -1,0 +1,412 @@
+Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_Deal,Phone_Service,Multiple_Lines,Internet_Service,Internet_Type,Online_Security,Online_Backup,Device_Protection_Plan,Premium_Support,Streaming_TV,Streaming_Movies,Streaming_Music,Unlimited_Data,Contract,Paperless_Billing,Payment_Method,Monthly_Charge,Total_Charges,Total_Refunds,Total_Extra_Data_Charges,Total_Long_Distance_Charges,Total_Revenue,Customer_Status,Churn_Category,Churn_Reason
+11751-TAM,Female,18,No,Tamil Nadu,5,7,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,24.29999924,38.45000076,0,0,0,38.45000076,Joined,Others,Others
+12056-WES,Male,27,No,West Bengal,2,20,None,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,90.40000153,268.4500122,0,0,94.44000244,362.8900146,Joined,Others,Others
+12136-RAJ,Female,25,Yes,Rajasthan,2,35,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.89999962,19.89999962,0,0,11.82999992,31.72999954,Joined,Others,Others
+12257-ASS,Female,39,No,Assam,9,1,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.54999924,19.54999924,0,0,10.19999981,29.75,Joined,Others,Others
+12340-DEL,Female,51,Yes,Delhi,0,10,None,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,62.79999924,62.79999924,0,0,42.18999863,104.9899979,Joined,Others,Others
+12469-AND,Male,24,Yes,Andhra Pradesh,11,4,None,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,55.29999924,55.29999924,0,0,36.68999863,91.98999786,Joined,Others,Others
+12490-TEL,Female,52,No,Telangana,9,6,None,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.75,238.1000061,38.84000015,0,37.5,236.7599945,Joined,Others,Others
+13058-MAD,Female,58,No,Madhya Pradesh,13,22,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,46.09999847,130.1499939,0,0,7.980000019,138.1300049,Joined,Others,Others
+13123-BIH,Female,46,No,Bihar,13,18,Deal 5,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,100.1999969,198.5,0,10,45.11999893,253.6199951,Joined,Others,Others
+13666-UTT,Male,57,Yes,Uttarakhand,15,16,None,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,95.40000153,293.1499939,0,0,51.02999878,344.1799927,Joined,Others,Others
+13744-AND,Female,41,Yes,Andhra Pradesh,8,3,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.64999962,19.64999962,0,0,13.85000038,33.5,Joined,Others,Others
+13823-TEL,Female,31,Yes,Telangana,1,28,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,24.5,46.40000153,0,0,0,46.40000153,Joined,Others,Others
+13946-HAR,Female,41,Yes,Haryana,1,3,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.64999962,19.64999962,0,0,23.67000008,43.31999969,Joined,Others,Others
+14567-TAM,Male,43,No,Tamil Nadu,1,9,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35000038,20.35000038,0,0,44.09000015,64.44000244,Joined,Others,Others
+15349-UTT,Male,47,Yes,Uttar Pradesh,9,12,Deal 5,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.15000153,50.15000153,0,0,39.86999893,90.01999664,Joined,Others,Others
+15591-KAR,Female,26,No,Karnataka,3,31,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.39999962,20.39999962,0,0,45.90999985,66.30999756,Joined,Others,Others
+15803-UTT,Female,34,No,Uttar Pradesh,6,31,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.14999962,19.14999962,0,0,22.37000084,41.52000046,Joined,Others,Others
+16032-AND,Female,47,No,Andhra Pradesh,8,18,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,46.59999847,87.90000153,0,0,3.74000001,91.63999939,Joined,Others,Others
+16068-BIH,Female,44,Yes,Bihar,4,25,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,25.25,25.25,0,10,0,35.25,Joined,Others,Others
+16244-UTT,Female,19,Yes,Uttar Pradesh,5,7,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.54999924,19.54999924,0,0,5.099999905,24.64999962,Joined,Others,Others
+16733-ODI,Female,76,Yes,Odisha,10,1,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.84999847,45.84999847,0,0,40.38000107,86.23000336,Joined,Others,Others
+16764-WES,Male,40,No,West Bengal,15,13,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.79999924,20.79999924,0,0,48.13999939,68.94000244,Joined,Others,Others
+16931-BIH,Female,39,Yes,Bihar,8,23,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.29999924,19.29999924,0,0,8.659999847,27.95999908,Joined,Others,Others
+17154-HAR,Male,32,No,Haryana,13,4,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,18.79999924,18.79999924,0,0,43.56999969,62.36999893,Joined,Others,Others
+17250-HAR,Female,23,Yes,Haryana,12,2,None,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.25,97,0,0,81.5,178.5,Joined,Others,Others
+17597-HAR,Female,33,Yes,Haryana,2,6,Deal 5,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.85000038,29.85000038,0,0,0,29.85000038,Joined,Others,Others
+17796-BIH,Female,65,No,Bihar,5,1,None,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,48.45000076,48.45000076,0,0,16.42000008,64.87000275,Joined,Others,Others
+18015-ODI,Female,28,Yes,Odisha,15,9,None,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.90000153,49.90000153,0,0,14.93000031,64.83000183,Joined,Others,Others
+18027-UTT,Female,58,Yes,Uttar Pradesh,15,30,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.89999962,33.70000076,0,0,7.639999866,41.34000015,Joined,Others,Others
+18415-KAR,Female,33,Yes,Karnataka,7,36,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.10000038,19.10000038,0,0,5.019999981,24.12000084,Joined,Others,Others
+18829-TAM,Female,49,Yes,Tamil Nadu,4,31,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,18.79999924,56,0,0,19.82999992,75.83000183,Joined,Others,Others
+19041-AND,Female,36,No,Andhra Pradesh,6,21,Deal 5,No,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,35.09999847,101.0999985,0,0,0,101.0999985,Joined,Others,Others
+19539-PUN,Female,37,Yes,Punjab,14,8,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.40000153,45.40000153,0,0,49.33000183,94.73000336,Joined,Others,Others
+19541-ODI,Female,37,Yes,Odisha,15,14,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.25,74.19999695,0,0,79,153.1999969,Joined,Others,Others
+19747-WES,Female,47,No,West Bengal,15,19,Deal 5,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,64.5,177.3999939,0,60,118.6500015,356.0499878,Joined,Others,Others
+19811-MAH,Female,35,Yes,Maharashtra,10,7,Deal 5,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,89.84999847,248.3999939,0,0,99.90000153,348.2999878,Joined,Others,Others
+19837-TAM,Female,57,Yes,Tamil Nadu,4,6,None,No,No,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,51.40000153,96.80000305,0,0,0,96.80000305,Joined,Others,Others
+19898-HAR,Male,31,Yes,Haryana,3,30,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.45000076,19.45000076,0,0,29.14999962,48.59999847,Joined,Others,Others
+19998-AND,Female,18,No,Andhra Pradesh,0,2,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,85.69999695,256.75,0,0,89.51999664,346.269989,Joined,Others,Others
+21065-HAR,Male,27,No,Haryana,5,10,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.29999924,20.29999924,0,0,10.84000015,31.13999939,Joined,Others,Others
+21165-DEL,Female,38,No,Delhi,2,32,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95000076,38.15000153,0,0,69.13999939,107.2900009,Joined,Others,Others
+21247-ASS,Male,58,Yes,Assam,2,2,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.5,19.5,0,0,8.020000458,27.52000046,Joined,Others,Others
+21288-MAH,Female,63,No,Maharashtra,12,34,None,Yes,Yes,Yes,DSL,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,60.25,170.5,0,70,60.29999924,300.7999878,Joined,Others,Others
+21642-TEL,Male,60,Yes,Telangana,12,29,None,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,54.5,54.5,0,0,33.20999908,87.70999908,Joined,Others,Others
+21956-JHA,Female,59,Yes,Jharkhand,10,8,None,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,82.30000305,214.3999939,0,20,134.9100037,369.3099976,Joined,Others,Others
+22119-WES,Male,31,Yes,West Bengal,5,5,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.04999924,33.70000076,0,0,3.619999886,37.31999969,Joined,Others,Others
+22137-KAR,Female,51,No,Karnataka,4,28,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.85000038,19.85000038,0,0,47.45999908,67.30999756,Joined,Others,Others
+22765-MAH,Female,40,Yes,Maharashtra,6,16,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.45000076,19.45000076,0,0,16.44000053,35.88999939,Joined,Others,Others
+22782-ODI,Female,50,Yes,Odisha,2,28,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.29999924,54.70000076,0,0,30.38999939,85.08999634,Joined,Others,Others
+23078-UTT,Female,57,Yes,Uttar Pradesh,3,24,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.29999924,20.29999924,0,0,6.639999866,26.94000053,Joined,Others,Others
+23148-CHH,Female,74,Yes,Chhattisgarh,4,9,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,44,44,0,0,28.67000008,72.66999817,Joined,Others,Others
+23256-HAR,Female,32,Yes,Haryana,10,31,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.85000038,52,0,0,72.09999847,124.0999985,Joined,Others,Others
+23605-MAH,Female,31,Yes,Maharashtra,1,19,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,20.75,0,0,7.570000172,28.31999969,Joined,Others,Others
+23632-HAR,Female,37,Yes,Haryana,2,16,Deal 5,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,97.09999847,184.1499939,0,0,78.69999695,262.8500061,Joined,Others,Others
+23683-TEL,Male,26,No,Telangana,10,16,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0,0,42.95999908,63.20999908,Joined,Others,Others
+23729-UTT,Female,58,No,Uttar Pradesh,14,19,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.64999962,38.79999924,0,0,19.21999931,58.02000046,Joined,Others,Others
+23855-MAH,Female,53,Yes,Maharashtra,13,9,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.90000153,111.0500031,0,0,10.15999985,121.2099991,Joined,Others,Others
+24696-BIH,Female,69,Yes,Bihar,0,20,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,43.95000076,85.09999847,0,0,38.18000031,123.2799988,Joined,Others,Others
+24754-AND,Female,63,Yes,Andhra Pradesh,0,28,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.55000305,200.1999969,33.79999924,0,5.010000229,171.4100037,Joined,Others,Others
+24990-WES,Female,36,No,West Bengal,8,24,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,71.65000153,135.75,0,0,58.06000137,193.8099976,Joined,Others,Others
+25048-TEL,Male,47,No,Telangana,15,9,Deal 5,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24,24,0,0,32.95000076,56.95000076,Joined,Others,Others
+25517-RAJ,Female,40,No,Rajasthan,4,10,None,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,91.44999695,171.4499969,0,10,98.81999969,280.269989,Joined,Others,Others
+25733-HAR,Female,80,No,Haryana,8,33,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,No,One Year,Yes,Credit Card,95.5,181.6499939,0,10,66.19999695,257.8500061,Joined,Others,Others
+25763-JHA,Female,47,Yes,Jharkhand,9,3,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.15000153,44.15000153,0,0,9.819999695,53.97000122,Joined,Others,Others
+26139-KAR,Male,76,No,Karnataka,5,22,Deal 5,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Two Year,No,Mailed Check,49.95000076,107.0999985,0,0,75.94000244,183.0399933,Joined,Others,Others
+26412-ASS,Female,30,No,Assam,7,18,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.70000076,39.84999847,0,0,27.78000069,67.62999725,Joined,Others,Others
+26448-BIH,Female,57,No,Bihar,10,21,Deal 5,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,75.30000305,244.1000061,0,0,116.9700012,361.0700073,Joined,Others,Others
+26500-GUJ,Female,62,Yes,Gujarat,3,19,Deal 5,Yes,No,Yes,Cable,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,62.15000153,113.0999985,0,0,96.77999878,209.8800049,Joined,Others,Others
+26567-UTT,Female,67,Yes,Uttar Pradesh,1,35,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.35000038,20.35000038,0,0,30.09000015,50.43999863,Joined,Others,Others
+26902-TEL,Male,52,Yes,Telangana,7,2,None,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.84999847,95.84999847,0,0,2.700000048,98.55000305,Joined,Others,Others
+27461-MAD,Male,22,Yes,Madhya Pradesh,7,6,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.54999924,44.54999924,0,0,23.04000092,67.58999634,Joined,Others,Others
+27465-JAM,Female,50,No,Jammu & Kashmir,10,30,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85000038,19.85000038,0,0,16.46999931,36.31999969,Joined,Others,Others
+27553-UTT,Female,53,Yes,Uttar Pradesh,0,18,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.29999924,20.29999924,0,0,4.090000153,24.38999939,Joined,Others,Others
+27561-UTT,Female,19,No,Uttar Pradesh,6,10,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0,0,47.25,67.5,Joined,Others,Others
+27856-UTT,Female,33,Yes,Uttar Pradesh,1,32,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.25,19.25,0,0,9.43999958,28.69000053,Joined,Others,Others
+27880-AND,Male,48,No,Andhra Pradesh,14,21,None,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,26.39999962,121.25,0,0,101.6100006,222.8600006,Joined,Others,Others
+28237-JHA,Female,52,No,Jharkhand,7,9,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.84999847,199.8500061,0,0,104.2799988,304.1300049,Joined,Others,Others
+28239-UTT,Female,55,Yes,Uttar Pradesh,0,5,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95000076,19.95000076,0,0,38.84000015,58.79000092,Joined,Others,Others
+28266-JAM,Male,32,No,Jammu & Kashmir,6,1,None,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,25.35000038,25.35000038,0,0,0,25.35000038,Joined,Others,Others
+28281-KAR,Male,56,Yes,Karnataka,8,32,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,80.34999847,253.8000031,0,0,148.8899994,402.6900024,Joined,Others,Others
+28317-MAD,Female,29,Yes,Madhya Pradesh,14,6,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Mailed Check,19.10000038,52,0,0,135.9900055,187.9900055,Joined,Others,Others
+28378-MAD,Female,65,No,Madhya Pradesh,12,1,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.45000076,19.45000076,0,0,46.59000015,66.04000092,Joined,Others,Others
+28398-TEL,Male,59,Yes,Telangana,3,23,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20,20,0,0,25.98999977,45.99000168,Joined,Others,Others
+28681-HAR,Female,33,No,Haryana,4,2,None,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,75.55000305,75.55000305,0,0,7.110000134,82.66000366,Joined,Others,Others
+28782-PUN,Male,58,Yes,Punjab,8,7,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,44.95000076,44.95000076,0,0,13.63000011,58.58000183,Joined,Others,Others
+28873-TAM,Male,55,No,Tamil Nadu,7,4,None,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.94999695,151.75,0,0,7.519999981,159.2700043,Joined,Others,Others
+29093-ASS,Male,57,Yes,Assam,6,6,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.45000076,20.45000076,0,0,11.60999966,32.06000137,Joined,Others,Others
+29371-WES,Female,23,No,West Bengal,14,9,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,55.29999924,108.6500015,0,0,87.86000061,196.5099945,Joined,Others,Others
+29525-TAM,Female,50,Yes,Tamil Nadu,9,3,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,25,78.25,0,0,0,78.25,Joined,Others,Others
+29626-WES,Male,67,No,West Bengal,10,22,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,50.15000153,50.15000153,0,50,38.33000183,138.4799957,Joined,Others,Others
+31129-AND,Male,68,No,Andhra Pradesh,15,15,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.34999847,70.34999847,0,10,14.42000008,94.76999664,Joined,Others,Others
+31294-KAR,Male,50,Yes,Karnataka,15,33,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.75,49.75,0,0,41.79000092,91.54000092,Joined,Others,Others
+31412-HAR,Female,81,Yes,Haryana,14,29,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.20000076,37.20000076,0,0,14.06000042,51.25999832,Joined,Others,Others
+31476-TEL,Male,42,Yes,Telangana,5,33,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95000076,19.95000076,0,0,27.07999992,47.02999878,Joined,Others,Others
+31601-DEL,Female,31,Yes,Delhi,2,10,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.64999962,19.64999962,0,0,42.41999817,62.06999969,Joined,Others,Others
+31918-KAR,Female,37,No,Karnataka,15,34,None,No,No,Yes,Cable,Yes,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,41.34999847,107.25,0,0,0,107.25,Joined,Others,Others
+32063-UTT,Female,63,Yes,Uttar Pradesh,6,31,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19,19,0,0,28.28000069,47.27999878,Joined,Others,Others
+32080-WES,Male,33,Yes,West Bengal,1,12,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.60000038,55.25,0,0,125.6999969,180.9499969,Joined,Others,Others
+32375-UTT,Female,23,Yes,Uttar Pradesh,1,3,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.89999962,20.89999962,0,0,10.21000004,31.11000061,Joined,Others,Others
+32563-KAR,Female,34,Yes,Karnataka,3,22,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.80000305,146.6499939,0,10,22.37999916,179.0299988,Joined,Others,Others
+32586-UTT,Female,25,No,Uttar Pradesh,15,10,None,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,-8,25.75,0,0,15.22000027,40.97000122,Joined,Others,Others
+32587-UTT,Female,30,No,Uttar Pradesh,1,27,None,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.45000076,141.6999969,0,0,61.11000061,202.8099976,Joined,Others,Others
+32966-HAR,Female,23,No,Haryana,3,7,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.20000076,19.20000076,0,0,26.37000084,45.56999969,Joined,Others,Others
+33472-HAR,Female,77,No,Haryana,0,16,None,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,73.84999847,196.3999939,0,0,139.9499969,336.3500061,Joined,Others,Others
+33565-UTT,Male,72,Yes,Uttar Pradesh,7,29,None,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,74.30000305,74.30000305,0,0,17.84000015,92.13999939,Joined,Others,Others
+33621-MAD,Female,42,No,Madhya Pradesh,13,12,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.34999847,120.25,0,20,15.39999962,155.6499939,Joined,Others,Others
+33773-UTT,Male,58,Yes,Uttar Pradesh,3,6,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.60000038,20.60000038,0,0,1.480000019,22.07999992,Joined,Others,Others
+33776-BIH,Male,32,Yes,Bihar,6,10,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.20000076,19.20000076,0,0,35.88000107,55.08000183,Joined,Others,Others
+33910-TEL,Female,63,No,Telangana,4,30,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.54999924,61.04999924,0,0,122.9400024,183.9900055,Joined,Others,Others
+34024-AND,Female,45,Yes,Andhra Pradesh,4,21,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.04999924,20.04999924,0,0,7.659999847,27.70999908,Joined,Others,Others
+34101-TAM,Female,41,No,Tamil Nadu,5,35,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.20000076,50.59999847,0,0,55.29000092,105.8899994,Joined,Others,Others
+34110-MAH,Female,20,Yes,Maharashtra,6,3,None,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.09999847,50.09999847,0,0,29.12999916,79.23000336,Joined,Others,Others
+34169-RAJ,Male,51,Yes,Rajasthan,14,30,Deal 5,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.85000038,62,0,0,80.5,142.5,Joined,Others,Others
+34319-UTT,Male,40,Yes,Uttar Pradesh,12,25,Deal 5,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.15000153,50.15000153,0,0,20.29999924,70.44999695,Joined,Others,Others
+34713-KER,Male,58,Yes,Kerala,1,29,Deal 5,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,90.75,174.75,0,0,54.34000015,229.0899963,Joined,Others,Others
+35075-PUN,Male,64,Yes,Punjab,5,9,None,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,55.04999924,55.04999924,0,0,14.64999962,69.69999695,Joined,Others,Others
+35606-BIH,Male,76,Yes,Bihar,12,18,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,One Year,No,Credit Card,75.05000305,202.8999939,5.489999771,10,124.3199997,331.730011,Joined,Others,Others
+35635-TEL,Female,26,Yes,Telangana,10,5,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.39999962,20.39999962,0,0,17.80999947,38.20999908,Joined,Others,Others
+35658-JHA,Male,35,No,Jharkhand,2,16,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.45000076,20.45000076,0,0,39.61000061,60.06000137,Joined,Others,Others
+35995-PUN,Female,34,No,Punjab,3,23,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20,63.59999847,0,0,120.5999985,184.1999969,Joined,Others,Others
+36017-TAM,Female,52,Yes,Tamil Nadu,15,23,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.54999924,19.54999924,0,0,40.63000107,60.18000031,Joined,Others,Others
+36284-ODI,Male,43,Yes,Odisha,4,13,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.54999924,44.54999924,0,0,41.09999847,85.65000153,Joined,Others,Others
+36323-UTT,Female,48,No,Uttar Pradesh,14,11,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,20.5,38.25,0,0,62.02000046,100.2699966,Joined,Others,Others
+36339-UTT,Female,54,No,Uttar Pradesh,14,7,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.89999962,45.75,0,0,124.0800018,169.8300018,Joined,Others,Others
+36483-KAR,Male,42,No,Karnataka,2,14,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,19.75,0,0,15.77000046,35.52000046,Joined,Others,Others
+36628-GUJ,Female,44,Yes,Gujarat,7,1,Deal 5,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.15000153,194.5500031,0,0,53.15999985,247.7100067,Joined,Others,Others
+37131-MAH,Male,52,No,Maharashtra,6,2,None,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,89.25,89.25,0,0,16.63999939,105.8899994,Joined,Others,Others
+38452-MAH,Female,34,No,Maharashtra,6,14,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,47.95000076,47.95000076,0,0,46.22999954,94.18000031,Joined,Others,Others
+38577-BIH,Female,30,Yes,Bihar,6,36,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.5,90.05000305,0,0,61.74000168,151.7899933,Joined,Others,Others
+38663-UTT,Male,42,No,Uttar Pradesh,7,15,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.29999924,40.25,0,0,14.53999996,54.79000092,Joined,Others,Others
+38748-AND,Female,22,Yes,Andhra Pradesh,13,6,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.64999962,19.64999962,0,0,27.87999916,47.52999878,Joined,Others,Others
+38779-HAR,Female,25,No,Haryana,13,19,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.04999924,75.44999695,0,0,113.5500031,189,Joined,Others,Others
+38920-PUN,Female,50,No,Punjab,8,7,None,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,43.84999847,43.84999847,0,10,15.89999962,69.75,Joined,Others,Others
+39128-PUN,Male,36,No,Punjab,15,22,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,44.75,44.75,0,10,18.56999969,73.31999969,Joined,Others,Others
+39332-TEL,Female,44,Yes,Telangana,6,8,None,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,80.55000305,80.55000305,0,60,5.929999828,146.4799957,Joined,Others,Others
+39540-BIH,Female,34,No,Bihar,12,13,None,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,49.04999924,49.04999924,0,0,25.77000046,74.81999969,Joined,Others,Others
+39623-HAR,Female,85,No,Haryana,2,10,Deal 5,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,74.59999847,239.0500031,0,30,118.5299988,387.5799866,Joined,Others,Others
+39764-UTT,Female,39,Yes,Uttar Pradesh,5,14,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.35000038,46.34999847,0,0,88.68000031,135.0299988,Joined,Others,Others
+39866-MAH,Female,24,No,Maharashtra,1,12,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,45.54999924,84.40000153,0,10,83.80000305,178.1999969,Joined,Others,Others
+41196-MAH,Female,29,Yes,Maharashtra,11,10,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,45,45,0,10,40.63000107,95.62999725,Joined,Others,Others
+41235-WES,Female,37,No,West Bengal,8,10,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.79999924,44.79999924,0,0,27.45999908,72.26000214,Joined,Others,Others
+41348-BIH,Female,64,No,Bihar,14,13,None,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Two Year,No,Credit Card,81.5,162.5500031,0,0,49.90000153,212.4499969,Joined,Others,Others
+41427-HAR,Male,37,No,Haryana,13,13,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.20000076,20.20000076,0,0,24.47999954,44.68000031,Joined,Others,Others
+41500-KAR,Male,31,No,Karnataka,1,31,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85000038,51.59999847,0,0,54.93999863,106.5400009,Joined,Others,Others
+41795-UTT,Female,58,No,Uttar Pradesh,5,10,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,19.75,0,0,41.27999878,61.02999878,Joined,Others,Others
+42029-TAM,Male,32,Yes,Tamil Nadu,3,30,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.5,76.94999695,0,0,111.0299988,187.9799957,Joined,Others,Others
+42089-MAH,Female,32,No,Maharashtra,2,34,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.70000076,57.5,0,0,115.2300034,172.7299957,Joined,Others,Others
+42358-BIH,Female,53,No,Bihar,9,35,None,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.20000076,140.3999939,0,0,124.1399994,264.5400085,Joined,Others,Others
+42574-ASS,Female,25,No,Assam,5,3,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.54999924,19.54999924,0,0,8.229999542,27.78000069,Joined,Others,Others
+42768-TAM,Female,45,No,Tamil Nadu,13,14,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.39999962,19.39999962,0,0,2.849999905,22.25,Joined,Others,Others
+42864-ODI,Female,29,No,Odisha,2,10,Deal 5,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,30.25,63.75,0,0,0,63.75,Joined,Others,Others
+43297-MAH,Male,60,No,Maharashtra,12,18,None,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,50.20000076,109.25,0,10,12.68000031,131.9299927,Joined,Others,Others
+43604-TAM,Female,18,No,Tamil Nadu,14,7,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,19.64999962,19.64999962,0,0,23.40999985,43.06000137,Joined,Others,Others
+43877-PUN,Male,23,No,Punjab,6,3,None,Yes,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,60.84999847,111.4000015,0,0,30.5,141.8999939,Joined,Others,Others
+43908-WES,Male,36,No,West Bengal,3,25,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.34999847,139.25,0,0,89.54000092,228.7899933,Joined,Others,Others
+43920-RAJ,Female,38,No,Rajasthan,9,3,Deal 5,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.90000153,49.90000153,0,0,9,58.90000153,Joined,Others,Others
+44202-TEL,Female,50,Yes,Telangana,9,14,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,69.94999695,69.94999695,0,0,11.44999981,81.40000153,Joined,Others,Others
+44208-AND,Female,25,Yes,Andhra Pradesh,2,20,None,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.15000153,235,0,0,72.83999634,307.8399963,Joined,Others,Others
+44655-TEL,Male,41,Yes,Telangana,0,25,None,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,50.5,147.75,0,0,79.13999939,226.8899994,Joined,Others,Others
+44693-UTT,Female,53,No,Uttar Pradesh,11,27,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.29999924,31.89999962,0,0,70.83999634,102.7399979,Joined,Others,Others
+44700-DEL,Female,48,No,Delhi,10,19,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,84.59999847,84.59999847,0,0,7.340000153,91.94000244,Joined,Others,Others
+44709-WES,Female,72,Yes,West Bengal,7,17,None,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,30.75,82.84999847,0,0,0,82.84999847,Joined,Others,Others
+45038-BIH,Female,25,Yes,Bihar,7,14,None,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.55000305,233.6499939,0,0,30.29999924,263.9500122,Joined,Others,Others
+45213-AND,Female,25,Yes,Andhra Pradesh,15,5,Deal 5,Yes,No,Yes,Cable,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,61.20000076,125.9499969,0,0,64.12000275,190.0700073,Joined,Others,Others
+45561-MAH,Female,44,Yes,Maharashtra,6,7,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20,40.90000153,0,0,86.54000092,127.4400024,Joined,Others,Others
+45672-TAM,Female,29,No,Tamil Nadu,0,2,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.20000076,20.20000076,0,0,42.15000153,62.34999847,Joined,Others,Others
+45771-KAR,Female,50,No,Karnataka,3,7,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,44.45000076,44.45000076,0,0,23.34000015,67.79000092,Joined,Others,Others
+45978-GUJ,Female,38,Yes,Gujarat,2,19,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,44.20000076,0,0,55.34000015,99.54000092,Joined,Others,Others
+46004-TAM,Male,25,Yes,Tamil Nadu,1,6,None,Yes,No,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,-8,132.3999939,0,0,47.04000092,179.4400024,Joined,Others,Others
+46081-TAM,Male,41,Yes,Tamil Nadu,14,29,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.15000153,45.15000153,0,0,42.34000015,87.48999786,Joined,Others,Others
+46190-GUJ,Male,27,Yes,Gujarat,0,36,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Mailed Check,55.54999924,55.54999924,0,30,33.31999969,118.8700027,Joined,Others,Others
+46378-MAH,Female,59,Yes,Maharashtra,15,10,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.40000153,154.8000031,0,0,14.97999954,169.7799988,Joined,Others,Others
+46479-GUJ,Male,41,Yes,Gujarat,0,13,None,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,71.09999847,213.3500061,2.619999886,0,111,321.730011,Joined,Others,Others
+46571-HAR,Female,65,Yes,Haryana,8,33,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,84.05000305,186.0500031,0,0,43.79999924,229.8500061,Joined,Others,Others
+46619-RAJ,Male,25,No,Rajasthan,1,14,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.39999962,20.39999962,0,0,27.5,47.90000153,Joined,Others,Others
+46730-ASS,Female,18,No,Assam,5,4,Deal 5,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.75,144.8000031,0,0,87.12000275,231.9199982,Joined,Others,Others
+46792-MAD,Female,59,Yes,Madhya Pradesh,6,25,Deal 5,No,No,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,35.90000153,35.90000153,0,0,0,35.90000153,Joined,Others,Others
+46865-PUN,Female,18,No,Punjab,11,1,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.44999695,145.1499939,0,0,57.22000122,202.3699951,Joined,Others,Others
+47133-ODI,Female,60,Yes,Odisha,15,8,None,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.59999847,122.6999969,0,0,46.77000046,169.4700012,Joined,Others,Others
+47492-AND,Female,30,Yes,Andhra Pradesh,15,24,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.14999962,20.14999962,0,0,18.62999916,38.77999878,Joined,Others,Others
+47611-WES,Male,25,No,West Bengal,4,31,None,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,55.25,55.25,0,60,39.18999863,154.4400024,Joined,Others,Others
+47624-TAM,Female,62,Yes,Tamil Nadu,7,29,None,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Mailed Check,-5,189.1000061,0,0,100.5899963,289.6900024,Joined,Others,Others
+47737-UTT,Male,42,No,Uttar Pradesh,15,25,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.64999962,19.64999962,0,0,16.90999985,36.56000137,Joined,Others,Others
+47957-GUJ,Female,26,No,Gujarat,4,2,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.45000076,20.45000076,0,0,42.16999817,62.61999893,Joined,Others,Others
+48018-RAJ,Male,39,No,Rajasthan,1,14,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.54999924,19.54999924,0,0,30.62999916,50.18000031,Joined,Others,Others
+48051-GUJ,Female,49,Yes,Gujarat,0,36,None,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,No,Credit Card,25.85000038,25.85000038,0,0,0,25.85000038,Joined,Others,Others
+48307-WES,Female,56,No,West Bengal,4,15,Deal 5,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,69.94999695,220.4499969,0,30,88.52999878,338.980011,Joined,Others,Others
+48939-BIH,Female,38,Yes,Bihar,1,6,None,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.95000076,49.95000076,0,0,44.97999954,94.93000031,Joined,Others,Others
+49201-GUJ,Female,37,No,Gujarat,11,30,None,No,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.89999962,29.89999962,0,0,0,29.89999962,Joined,Others,Others
+49265-BIH,Female,18,Yes,Bihar,4,4,Deal 5,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,Yes,Yes,Month-to-Month,No,Credit Card,55.90000153,157.5500031,0,0,99.83999634,257.3900146,Joined,Others,Others
+49273-PUD,Female,45,Yes,Puducherry,11,15,Deal 5,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,No,Mailed Check,59.5,130.5,0,0,85.09999847,215.6000061,Joined,Others,Others
+49304-KAR,Female,32,Yes,Karnataka,6,33,None,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,49.79999924,49.79999924,0,0,3.970000029,53.77000046,Joined,Others,Others
+51214-MAH,Male,28,No,Maharashtra,12,22,None,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Credit Card,73.59999847,232.5,0,10,82.01999664,324.519989,Joined,Others,Others
+51597-MAD,Female,26,Yes,Madhya Pradesh,10,18,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.89999962,19.89999962,0,0,1.5,21.39999962,Joined,Others,Others
+51657-TAM,Male,54,No,Tamil Nadu,13,16,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.85000038,60.65000153,0,0,58.74000168,119.3899994,Joined,Others,Others
+51751-KER,Female,62,No,Kerala,9,25,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.15000153,123.8000031,0,0,67.5,191.3000031,Joined,Others,Others
+51961-BIH,Male,47,No,Bihar,9,25,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,50.95000076,123.0500031,0,0,73.91999817,196.9700012,Joined,Others,Others
+52279-TAM,Male,53,No,Tamil Nadu,15,26,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.69999695,239.4499969,0,0,71.16000366,310.6099854,Joined,Others,Others
+52403-WES,Female,66,Yes,West Bengal,9,6,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,71.25,71.25,0,10,17.60000038,98.84999847,Joined,Others,Others
+52641-JHA,Female,44,Yes,Jharkhand,7,29,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,71.09999847,71.09999847,0,0,37.50999832,108.6100006,Joined,Others,Others
+52695-UTT,Female,52,No,Uttar Pradesh,14,34,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35000038,35.09999847,0,0,4.920000076,40.02000046,Joined,Others,Others
+53186-HAR,Male,74,Yes,Haryana,10,2,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,No,Bank Withdrawal,45.25,45.25,0,0,11.89000034,57.13999939,Joined,Others,Others
+53295-WES,Female,35,No,West Bengal,7,33,Deal 5,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,25.70000076,25.70000076,0,0,43.84000015,69.54000092,Joined,Others,Others
+53350-TEL,Male,37,Yes,Telangana,6,22,None,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.5,217.4499969,0,0,20.90999985,238.3600006,Joined,Others,Others
+53449-MAH,Female,52,No,Maharashtra,8,17,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.89999962,19.89999962,0,0,2.380000114,22.28000069,Joined,Others,Others
+53612-UTT,Female,39,Yes,Uttar Pradesh,8,34,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.85000038,72,0,0,35.31000137,107.3099976,Joined,Others,Others
+53764-WES,Male,36,No,West Bengal,10,23,None,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,24.89999962,24.89999962,0,0,0,24.89999962,Joined,Others,Others
+53815-BIH,Female,36,No,Bihar,2,4,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.70000076,19.70000076,0,0,34.27999878,53.97999954,Joined,Others,Others
+54172-RAJ,Female,64,Yes,Rajasthan,0,9,Deal 5,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,56.54999924,118.25,0,0,63.47999954,181.7299957,Joined,Others,Others
+54195-MAH,Female,61,Yes,Maharashtra,11,23,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0,0,37.61999893,57.36999893,Joined,Others,Others
+54564-AND,Female,55,Yes,Andhra Pradesh,11,7,None,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,76.09999847,257.6000061,0,0,43.04999924,300.6499939,Joined,Others,Others
+54598-TAM,Male,59,No,Tamil Nadu,11,32,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,39.29999924,0,0,3.940000057,43.24000168,Joined,Others,Others
+54997-UTT,Female,55,No,Uttar Pradesh,7,23,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44,44,0,0,26.14999962,70.15000153,Joined,Others,Others
+55043-UTT,Male,43,Yes,Uttar Pradesh,8,17,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.90000153,69.90000153,0,10,9.359999657,89.26000214,Joined,Others,Others
+55757-KAR,Female,32,Yes,Karnataka,2,9,Deal 5,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,55.79999924,154.5500031,0,0,12.56999969,167.1199951,Joined,Others,Others
+55831-TAM,Male,43,No,Tamil Nadu,11,13,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.95000076,58.29999924,0,0,15.44999981,73.75,Joined,Others,Others
+56256-UTT,Male,40,No,Uttar Pradesh,14,15,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.30000305,220.3999939,0,0,29.21999931,249.6199951,Joined,Others,Others
+56460-MAH,Male,38,Yes,Maharashtra,12,23,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,-1,129.1999969,0,10,5.440000057,144.6399994,Joined,Others,Others
+56554-RAJ,Female,29,Yes,Rajasthan,0,11,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.75,19.75,0,0,10.22000027,29.96999931,Joined,Others,Others
+56728-RAJ,Male,40,No,Rajasthan,0,1,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.59999847,45.59999847,0,0,37.43999863,83.04000092,Joined,Others,Others
+57012-TAM,Female,78,Yes,Tamil Nadu,11,29,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,45.20000076,45.20000076,0,0,49.34000015,94.54000092,Joined,Others,Others
+57256-BIH,Female,18,No,Bihar,9,7,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85000038,57.20000076,0,0,9.359999657,66.55999756,Joined,Others,Others
+57457-MAD,Female,46,No,Madhya Pradesh,14,34,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20,38,0,0,68.76000214,106.7600021,Joined,Others,Others
+58044-KAR,Female,31,No,Karnataka,5,13,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35000038,41.84999847,0,0,10.84000015,52.68999863,Joined,Others,Others
+58577-ODI,Female,44,Yes,Odisha,7,36,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.84999847,105.5999985,0,0,10.93999958,116.5400009,Joined,Others,Others
+58848-PUN,Male,58,Yes,Punjab,14,18,None,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,49.79999924,49.79999924,0,0,38.20999908,88.01000214,Joined,Others,Others
+58974-MAD,Male,34,No,Madhya Pradesh,11,14,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.29999924,41.20000076,0,0,25.36000061,66.55999756,Joined,Others,Others
+59750-AND,Female,49,Yes,Andhra Pradesh,11,4,None,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.90000153,136.0500031,0,0,82.16000366,218.2100067,Joined,Others,Others
+61025-MAH,Female,45,No,Maharashtra,4,16,Deal 5,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.84999847,49.84999847,0,0,42.54999924,92.40000153,Joined,Others,Others
+61203-PUN,Female,19,No,Punjab,11,11,None,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,64.59999847,174.1999969,0,0,122.9700012,297.1700134,Joined,Others,Others
+61331-UTT,Male,36,Yes,Uttarakhand,2,10,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.75,50.75,0,0,45.77000046,96.51999664,Joined,Others,Others
+61474-TEL,Male,52,Yes,Telangana,11,17,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35000038,20.35000038,0,0,31.96999931,52.31999969,Joined,Others,Others
+62359-AND,Female,48,Yes,Andhra Pradesh,5,24,Deal 5,No,No,Yes,Cable,No,Yes,No,Yes,No,No,No,No,Month-to-Month,No,Credit Card,33.59999847,33.59999847,0,50,0,83.59999847,Joined,Others,Others
+62497-BIH,Female,20,No,Bihar,0,2,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.75,67.09999847,0,0,49.16999817,116.2699966,Joined,Others,Others
+62535-AND,Male,42,No,Andhra Pradesh,8,22,Deal 5,Yes,No,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,70.69999695,225.6499939,0,0,75.12000275,300.769989,Joined,Others,Others
+62842-HAR,Male,33,Yes,Haryana,11,25,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.29999924,44.40000153,0,0,99.81999969,144.2200012,Joined,Others,Others
+62968-UTT,Female,18,No,Uttar Pradesh,4,3,None,Yes,No,Yes,Cable,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,59.54999924,59.54999924,0,0,41.38999939,100.9400024,Joined,Others,Others
+63464-AND,Male,48,No,Andhra Pradesh,7,5,None,Yes,No,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,60.65000153,196.8999939,0,0,67.47000122,264.3699951,Joined,Others,Others
+63487-MAH,Female,36,Yes,Maharashtra,8,34,None,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,44.75,44.75,0,0,40.86999893,85.62000275,Joined,Others,Others
+63883-KAR,Female,33,Yes,Karnataka,12,26,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.45000076,42.45000076,0,0,94.37999725,136.8300018,Joined,Others,Others
+64095-BIH,Male,27,No,Bihar,2,17,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,-3,20.20000076,0,0,44.68999863,64.88999939,Joined,Others,Others
+64327-AND,Female,59,Yes,Andhra Pradesh,8,9,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.64999962,20.64999962,0,0,35.24000168,55.88999939,Joined,Others,Others
+65405-MAH,Female,65,Yes,Maharashtra,7,18,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,20.25,71.19999695,0,0,4.409999847,75.61000061,Joined,Others,Others
+65531-MAH,Female,55,No,Maharashtra,10,22,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.79999924,19.79999924,0,0,11.96000004,31.76000023,Joined,Others,Others
+65580-UTT,Male,54,No,Uttar Pradesh,6,2,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.10000038,53.04999924,0,0,48.95999908,102.0100021,Joined,Others,Others
+65987-TAM,Male,52,Yes,Tamil Nadu,9,34,Deal 5,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,61.15000153,61.15000153,0,0,17.06999969,78.22000122,Joined,Others,Others
+66164-CHH,Female,62,No,Chhattisgarh,13,20,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.39999962,61.04999924,0,0,13.30000019,74.34999847,Joined,Others,Others
+66413-TAM,Female,53,No,Tamil Nadu,12,4,None,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,80.5,232.3500061,0,0,80.58000183,312.9299927,Joined,Others,Others
+66612-KAR,Female,58,Yes,Karnataka,11,18,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95000076,58,0,0,8.069999695,66.06999969,Joined,Others,Others
+66669-HAR,Male,44,No,Haryana,12,32,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.04999924,44.04999924,0,0,30.72999954,74.77999878,Joined,Others,Others
+66712-GUJ,Female,47,Yes,Gujarat,6,33,Deal 5,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,84.30000305,235.0500031,0,0,41.15999985,276.2099915,Joined,Others,Others
+66749-KER,Female,47,No,Kerala,9,5,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,20.75,0,0,36.27999878,57.02999878,Joined,Others,Others
+66766-UTT,Female,38,No,Uttar Pradesh,6,10,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.94999695,212.3999939,27.60000038,0,4.920000076,189.7200012,Joined,Others,Others
+66868-HAR,Female,25,Yes,Haryana,13,10,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.25,70.25,0,10,10.05000019,90.30000305,Joined,Others,Others
+67752-MAH,Female,28,No,Maharashtra,0,24,None,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.29999924,45.29999924,0,0,47.36000061,92.66000366,Joined,Others,Others
+67882-UTT,Female,44,No,Uttar Pradesh,3,16,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,43.79999924,43.79999924,0,0,37.5,81.30000305,Joined,Others,Others
+67941-PUN,Female,46,No,Punjab,9,13,Deal 5,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Credit Card,54.15000153,101.6500015,0,10,42.59999847,154.25,Joined,Others,Others
+67994-MAD,Male,75,Yes,Madhya Pradesh,12,33,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,46.29999924,46.29999924,0,0,11.51000023,57.81000137,Joined,Others,Others
+68556-MAH,Male,68,No,Maharashtra,4,23,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.20000076,20.20000076,0,0,13.07999992,33.27999878,Joined,Others,Others
+68826-MAH,Male,48,No,Maharashtra,14,1,None,No,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,24.70000076,24.70000076,0,0,0,24.70000076,Joined,Others,Others
+71183-TAM,Female,39,No,Tamil Nadu,1,33,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.60000038,61.34999847,0,0,106.9499969,168.3000031,Joined,Others,Others
+71197-PUN,Female,38,No,Punjab,0,33,Deal 5,Yes,No,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,77.40000153,206.1499939,0,0,133.2599945,339.4100037,Joined,Others,Others
+71210-WES,Female,58,No,West Bengal,15,28,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85000038,19.85000038,0,0,29.10000038,48.95000076,Joined,Others,Others
+71234-HAR,Female,44,No,Haryana,10,34,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.39999962,19.39999962,0,0,23.96999931,43.36999893,Joined,Others,Others
+71261-TAM,Female,59,No,Tamil Nadu,2,27,None,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,70.44999695,70.44999695,0,0,20.10000038,90.55000305,Joined,Others,Others
+71509-HAR,Female,40,No,Haryana,3,27,None,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.65000153,54.65000153,0,0,36.33000183,90.98000336,Joined,Others,Others
+71564-KAR,Female,48,No,Karnataka,6,5,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.04999924,19.04999924,0,0,5.019999981,24.06999969,Joined,Others,Others
+71689-PUN,Female,42,Yes,Punjab,3,19,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,43.95000076,43.95000076,0,0,45.59000015,89.54000092,Joined,Others,Others
+71752-TEL,Female,51,No,Telangana,4,2,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.89999962,57.40000153,0,0,53.79999924,111.1999969,Joined,Others,Others
+72275-GUJ,Female,45,Yes,Gujarat,8,4,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.95000076,47.70000076,0,0,62.90000153,110.5999985,Joined,Others,Others
+72357-MAD,Female,53,No,Madhya Pradesh,14,12,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.29999924,44.29999924,0,0,42.95000076,87.25,Joined,Others,Others
+72391-UTT,Male,35,No,Uttar Pradesh,1,7,None,No,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,35,35,0,0,0,35,Joined,Others,Others
+72469-MAD,Male,56,No,Madhya Pradesh,9,9,None,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,55.70000076,55.70000076,0,0,17.68000031,73.37999725,Joined,Others,Others
+72971-TAM,Female,81,No,Tamil Nadu,6,8,None,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,One Year,No,Bank Withdrawal,74.69999695,74.69999695,0,0,27.64999962,102.3499985,Joined,Others,Others
+73044-KAR,Male,23,Yes,Karnataka,15,5,None,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,74.59999847,74.59999847,0,0,42.99000168,117.5899963,Joined,Others,Others
+73108-GUJ,Female,38,Yes,Gujarat,6,12,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.25,36.79999924,0,0,31.65999985,68.45999908,Joined,Others,Others
+73547-KAR,Female,43,Yes,Karnataka,13,16,None,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.05000305,134.0500031,0,0,44.45999908,178.5099945,Joined,Others,Others
+74033-ASS,Female,45,Yes,Assam,15,20,None,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,25.25,25.25,0,0,0,25.25,Joined,Others,Others
+74378-KAR,Female,37,Yes,Karnataka,12,30,None,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,54.45000076,87.30000305,0,0,39.74000168,127.0400009,Joined,Others,Others
+74518-ODI,Female,27,No,Odisha,13,13,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.45000076,82.69999695,0,0,37.40000153,120.0999985,Joined,Others,Others
+74651-WES,Female,30,Yes,West Bengal,7,23,None,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.20000076,98.5,0,0,0,98.5,Joined,Others,Others
+74804-WES,Female,46,No,West Bengal,0,5,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,69.59999847,207.3999939,0,20,86.91000366,314.3099976,Joined,Others,Others
+74978-MAH,Female,28,Yes,Maharashtra,1,21,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0,0,30.37999916,50.13000107,Joined,Others,Others
+74979-MAD,Female,49,Yes,Madhya Pradesh,10,14,Deal 5,No,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,29.04999924,44.75,0,0,0,44.75,Joined,Others,Others
+75058-TEL,Female,59,No,Telangana,6,14,None,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,74.09999847,74.09999847,0,0,36.04999924,110.1500015,Joined,Others,Others
+75641-PUN,Male,77,No,Punjab,9,28,None,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,83.80000305,163.6999969,0,0,65.95999908,229.6600037,Joined,Others,Others
+75671-PUD,Female,34,Yes,Puducherry,8,13,None,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,45.40000153,80.94999695,0,0,21.62000084,102.5699997,Joined,Others,Others
+75802-MAH,Female,61,No,Maharashtra,4,3,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.04999924,20.04999924,0,0,13.51000023,33.56000137,Joined,Others,Others
+76233-BIH,Female,78,Yes,Bihar,6,9,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,70.59999847,70.59999847,0,30,32.61000061,133.2100067,Joined,Others,Others
+76419-KAR,Male,46,Yes,Karnataka,14,28,None,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,94.90000153,273.2000122,0,0,8.909999847,282.1099854,Joined,Others,Others
+77137-MAH,Male,52,No,Maharashtra,1,8,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,45.54999924,45.54999924,0,0,16.34000015,61.88999939,Joined,Others,Others
+77230-RAJ,Female,59,Yes,Rajasthan,5,4,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.64999962,31.20000076,0,0,15.60000038,46.79999924,Joined,Others,Others
+77311-MAD,Male,47,Yes,Madhya Pradesh,9,19,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.25,20.25,0,0,40.45999908,60.70999908,Joined,Others,Others
+77658-AND,Male,44,No,Andhra Pradesh,0,4,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,24.39999962,24.39999962,0,0,0,24.39999962,Joined,Others,Others
+77678-JHA,Female,41,Yes,Jharkhand,1,29,None,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.54999924,49.54999924,0,0,10.82999992,60.38000107,Joined,Others,Others
+77688-TAM,Male,35,No,Tamil Nadu,4,13,None,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,49,49,0,0,49.18999863,98.19000244,Joined,Others,Others
+77911-TEL,Female,20,No,Telangana,5,8,Deal 5,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,23.60000038,89.05000305,0,0,42.29999924,131.3500061,Joined,Others,Others
+78021-UTT,Female,45,Yes,Uttar Pradesh,12,35,Deal 5,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,25,25,0,0,3.390000105,28.38999939,Joined,Others,Others
+78220-TAM,Female,21,Yes,Tamil Nadu,14,10,None,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,Yes,Yes,Month-to-Month,Yes,Credit Card,89.84999847,244.4499969,0,0,75.30000305,319.75,Joined,Others,Others
+78253-GUJ,Male,63,No,Gujarat,13,30,None,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,85,85,0,0,15.19999981,100.1999969,Joined,Others,Others
+78885-TAM,Female,43,No,Tamil Nadu,2,5,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.5,19.5,0,0,20.11000061,39.61000061,Joined,Others,Others
+78918-BIH,Female,59,No,Bihar,12,11,Deal 5,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,86.05000305,244.8500061,0,0,54.77999878,299.6300049,Joined,Others,Others
+78978-UTT,Male,54,No,Uttar Pradesh,0,13,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.29999924,19.29999924,0,0,16.36000061,35.65999985,Joined,Others,Others
+79168-UTT,Female,78,No,Uttar Pradesh,2,10,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,44.29999924,89.30000305,0,0,47.81999969,137.1199951,Joined,Others,Others
+79342-KAR,Female,39,Yes,Karnataka,5,22,None,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,64.40000153,195.6499939,0,0,114.1500015,309.7999878,Joined,Others,Others
+79427-KAR,Male,67,Yes,Karnataka,12,21,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.09999847,141.6499939,0,0,69.98000336,211.6300049,Joined,Others,Others
+79700-KER,Female,53,No,Kerala,5,30,None,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Mailed Check,107.9499969,313.6000061,0,0,142.5,456.1000061,Joined,Others,Others
+79777-MAH,Male,77,Yes,Maharashtra,13,33,None,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,72.59999847,154.3000031,0,0,30.37999916,184.6799927,Joined,Others,Others
+79905-UTT,Female,24,No,Uttar Pradesh,0,12,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.45000076,20.45000076,0,0,30.09000015,50.54000092,Joined,Others,Others
+81098-GUJ,Male,31,Yes,Gujarat,13,11,None,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,51.25,51.25,0,0,39.29999924,90.55000305,Joined,Others,Others
+81118-MAD,Female,31,No,Madhya Pradesh,1,13,None,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.79999924,45.79999924,0,0,13.61999989,59.41999817,Joined,Others,Others
+81169-TEL,Female,62,Yes,Telangana,4,2,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,18.85000038,18.85000038,0,0,7.800000191,26.64999962,Joined,Others,Others
+81235-JHA,Female,42,Yes,Jharkhand,9,32,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.90000153,44.90000153,0,0,15.76000023,60.65999985,Joined,Others,Others
+81763-DEL,Male,36,Yes,Delhi,7,7,None,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.44999695,137.1000061,0,0,70.81999969,207.9199982,Joined,Others,Others
+82010-WES,Female,46,No,West Bengal,14,7,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,79.55000305,151.75,0,0,51.11999893,202.8699951,Joined,Others,Others
+82118-JAM,Female,69,Yes,Jammu & Kashmir,3,6,Deal 5,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,24.20000076,24.20000076,0,0,0,24.20000076,Joined,Others,Others
+82129-JHA,Female,26,No,Jharkhand,9,8,Deal 5,Yes,No,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,58.70000076,168.6000061,0,0,34.40999985,203.0099945,Joined,Others,Others
+82170-TAM,Male,41,No,Tamil Nadu,5,29,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,44.59999847,44.59999847,0,0,45.27999878,89.87999725,Joined,Others,Others
+82427-MAH,Male,36,No,Maharashtra,15,28,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.54999924,19.54999924,0,0,17.94000053,37.49000168,Joined,Others,Others
+82473-AND,Male,63,Yes,Andhra Pradesh,10,1,Deal 5,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.79999924,94.40000153,0,0,0,94.40000153,Joined,Others,Others
+82559-CHH,Male,34,Yes,Chhattisgarh,0,33,Deal 5,Yes,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Credit Card,64.19999695,143.6499939,0,30,8.819999695,182.4700012,Joined,Others,Others
+82718-TAM,Male,32,Yes,Tamil Nadu,12,7,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.70000076,20.70000076,0,0,45.86000061,66.55999756,Joined,Others,Others
+82965-TEL,Female,38,No,Telangana,8,20,None,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,44.75,148.0500031,0,10,104.6699982,262.7200012,Joined,Others,Others
+83050-PUN,Female,25,Yes,Punjab,7,20,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.45000076,34.79999924,0,0,92,126.8000031,Joined,Others,Others
+83080-HAR,Female,54,No,Haryana,9,4,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.15000153,194.1999969,0,0,16.88999939,211.0899963,Joined,Others,Others
+83113-GUJ,Male,35,No,Gujarat,8,30,None,No,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,29.14999962,29.14999962,0,0,0,29.14999962,Joined,Others,Others
+83196-UTT,Female,61,Yes,Uttar Pradesh,3,10,None,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,80.55000305,188.1000061,0,0,10.60000038,198.6999969,Joined,Others,Others
+83308-TAM,Male,40,No,Tamil Nadu,5,14,None,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,29.64999962,90.05000305,0,0,0,90.05000305,Joined,Others,Others
+83440-GUJ,Male,53,No,Gujarat,4,14,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20,49.65000153,0,0,93.18000031,142.8300018,Joined,Others,Others
+83486-MAH,Male,34,No,Maharashtra,5,4,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,75.34999847,75.34999847,0,0,38.88999939,114.2399979,Joined,Others,Others
+83610-BIH,Female,66,Yes,Bihar,0,11,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,74.19999695,140.1000061,0,0,14.57999992,154.6799927,Joined,Others,Others
+83736-UTT,Male,43,Yes,Uttar Pradesh,1,25,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.34999847,45.34999847,0,0,12.46000004,57.81000137,Joined,Others,Others
+83817-UTT,Male,48,No,Uttar Pradesh,8,18,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,21.04999924,21.04999924,0,0,10.14000034,31.19000053,Joined,Others,Others
+83939-AND,Female,42,No,Andhra Pradesh,8,27,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.10000038,43.15000153,0,0,65.72000122,108.8700027,Joined,Others,Others
+83994-DEL,Male,48,Yes,Delhi,8,24,None,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,90.69999695,237.6499939,0,0,16.17000008,253.8200073,Joined,Others,Others
+84508-TAM,Female,28,Yes,Tamil Nadu,11,28,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,21.10000038,21.10000038,0,0,18.80999947,39.90999985,Joined,Others,Others
+84535-TAM,Male,46,No,Tamil Nadu,2,36,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.39999962,42.90000153,0,0,99.05999756,141.9600067,Joined,Others,Others
+84577-TEL,Female,59,Yes,Telangana,11,29,None,Yes,No,Yes,Cable,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,59,114.1500015,0,0,54.04000092,168.1900024,Joined,Others,Others
+84613-BIH,Female,30,No,Bihar,8,22,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,79.15000153,79.15000153,0,60,18,157.1499939,Joined,Others,Others
+84687-PUN,Female,31,No,Punjab,0,18,Deal 5,No,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.70000076,24.70000076,0,70,0,94.69999695,Joined,Others,Others
+84720-GUJ,Male,55,Yes,Gujarat,11,6,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.20000076,19.20000076,0,0,32.77999878,51.97999954,Joined,Others,Others
+84770-UTT,Female,38,Yes,Uttar Pradesh,2,21,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.14999962,20.14999962,0,0,27.59000015,47.74000168,Joined,Others,Others
+84789-PUN,Male,46,No,Punjab,9,19,Deal 5,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,107.9499969,318.6000061,0,0,37.97999954,356.5799866,Joined,Others,Others
+84843-MAD,Female,57,Yes,Madhya Pradesh,11,8,None,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.09999847,75.09999847,0,0,4.53000021,79.62999725,Joined,Others,Others
+85027-KAR,Male,57,No,Karnataka,14,27,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.75,19.75,0,0,1.610000014,21.36000061,Joined,Others,Others
+85031-RAJ,Female,60,No,Rajasthan,1,4,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44,44,0,0,13.39999962,57.40000153,Joined,Others,Others
+85428-HAR,Female,62,Yes,Haryana,11,18,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.10000038,39.79999924,0,0,71,110.8000031,Joined,Others,Others
+85506-MAH,Female,23,No,Maharashtra,0,10,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.20000076,34.75,0,0,76.81999969,111.5699997,Joined,Others,Others
+85917-TAM,Male,53,Yes,Tamil Nadu,7,15,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.5,19.5,0,0,33.02000046,52.52000046,Joined,Others,Others
+86289-UTT,Male,27,No,Uttar Pradesh,4,27,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.29999924,20.29999924,0,0,29.19000053,49.49000168,Joined,Others,Others
+86315-TAM,Female,54,No,Tamil Nadu,6,13,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.95000076,20.95000076,0,0,2.289999962,23.23999977,Joined,Others,Others
+86362-ASS,Female,35,Yes,Assam,15,11,None,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.30000305,74.30000305,0,0,39.54999924,113.8499985,Joined,Others,Others
+86369-BIH,Female,59,No,Bihar,1,2,Deal 5,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,54.29999924,54.29999924,0,10,34.02000046,98.31999969,Joined,Others,Others
+86703-WES,Female,54,Yes,West Bengal,14,35,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.64999962,20.64999962,0,0,1.470000029,22.12000084,Joined,Others,Others
+86891-GUJ,Male,25,No,Gujarat,7,5,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.04999924,20.04999924,0,0,18.14999962,38.20000076,Joined,Others,Others
+86970-KER,Male,57,Yes,Kerala,2,9,None,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,49.5,49.5,0,30,16.98999977,96.48999786,Joined,Others,Others
+87024-KAR,Male,58,No,Karnataka,14,8,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,71.30000305,157.75,0,0,13.47999954,171.2299957,Joined,Others,Others
+87077-TAM,Male,62,Yes,Tamil Nadu,3,21,Deal 5,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,69,147.8000031,0,0,54.81999969,202.6199951,Joined,Others,Others
+87704-GUJ,Female,38,Yes,Gujarat,9,24,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.45000076,20.45000076,0,0,43.81999969,64.26999664,Joined,Others,Others
+88107-JAM,Female,58,No,Jammu & Kashmir,10,34,None,No,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,No,Credit Card,30.54999924,30.54999924,0,40,0,70.55000305,Joined,Others,Others
+88111-MAH,Female,52,Yes,Maharashtra,15,32,None,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,83.40000153,83.40000153,0,0,43.06000137,126.4599991,Joined,Others,Others
+88215-KAR,Female,19,No,Karnataka,5,10,Deal 5,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.04999924,50.04999924,0,0,43.04999924,93.09999847,Joined,Others,Others
+88728-UTT,Female,42,No,Uttar Pradesh,12,9,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,21.20000076,52.04999924,0,0,36.15000153,88.19999695,Joined,Others,Others
+89154-RAJ,Female,47,No,Rajasthan,5,3,Deal 5,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.20000076,103.6999969,0,0,58.56000137,162.2599945,Joined,Others,Others
+89188-KAR,Female,26,Yes,Karnataka,3,9,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.54999924,33.59999847,0,0,33.40000153,67,Joined,Others,Others
+89303-AND,Male,51,No,Andhra Pradesh,6,11,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,69.94999695,143.8999939,0,0,58.20000076,202.1000061,Joined,Others,Others
+89382-ASS,Male,56,No,Assam,5,29,Deal 5,No,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.75,96.84999847,0,0,0,96.84999847,Joined,Others,Others
+89512-JAM,Male,57,No,Jammu & Kashmir,3,34,None,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,60.95000076,134.6000061,0,0,29.76000023,164.3600006,Joined,Others,Others
+89804-MAH,Male,34,No,Maharashtra,4,31,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.39999962,50.59999847,0,0,30.31999969,80.91999817,Joined,Others,Others
+91320-PUD,Female,58,No,Puducherry,0,18,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.09999847,70.09999847,0,0,1.149999976,71.25,Joined,Others,Others
+91505-DEL,Male,62,Yes,Delhi,13,36,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,94.84999847,335.75,0,0,113.3399963,449.0899963,Joined,Others,Others
+91835-GUJ,Male,21,Yes,Gujarat,12,5,None,Yes,No,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,75.5,75.5,0,0,5.630000114,81.12999725,Joined,Others,Others
+92134-BIH,Male,24,No,Bihar,5,11,None,No,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,34.79999924,113.9499969,0,0,0,113.9499969,Joined,Others,Others
+92198-DEL,Female,44,Yes,Delhi,8,15,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0,0,28.18000031,48.43000031,Joined,Others,Others
+92228-BIH,Female,22,Yes,Bihar,10,9,None,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,25.14999962,25.14999962,0,0,0,25.14999962,Joined,Others,Others
+92398-AND,Male,35,No,Andhra Pradesh,5,12,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20,61.70000076,0,0,46.11000061,107.8099976,Joined,Others,Others
+92494-MAH,Female,39,Yes,Maharashtra,11,19,None,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,91.15000153,168.5,0,10,93.55999756,272.0599976,Joined,Others,Others
+92527-KAR,Female,40,No,Karnataka,7,16,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.04999924,20.04999924,0,0,3.230000019,23.28000069,Joined,Others,Others
+93520-GUJ,Female,67,No,Gujarat,13,19,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,72.09999847,72.09999847,0,0,7.769999981,79.87000275,Joined,Others,Others
+93521-MAH,Female,55,No,Maharashtra,6,35,None,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,-1,49.29999924,0,10,14.97000027,74.26999664,Joined,Others,Others
+93667-KER,Female,38,No,Kerala,7,33,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,20.54999924,57.40000153,0,0,33.81000137,91.20999908,Joined,Others,Others
+93700-MAH,Female,57,No,Maharashtra,8,20,Deal 5,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.70000076,50.70000076,0,0,38.04999924,88.75,Joined,Others,Others
+94070-JAM,Female,21,Yes,Jammu & Kashmir,8,3,None,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,90.09999847,90.09999847,0,0,24.32999992,114.4300003,Joined,Others,Others
+94124-MAH,Female,21,No,Maharashtra,9,8,None,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.94999695,174.4499969,0,0,75.40000153,249.8500061,Joined,Others,Others
+94243-TAM,Female,34,No,Tamil Nadu,5,15,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.89999962,19.89999962,0,0,7.760000229,27.65999985,Joined,Others,Others
+94305-KAR,Male,49,Yes,Karnataka,5,18,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0,0,5.320000172,25.06999969,Joined,Others,Others
+94609-HAR,Female,45,No,Haryana,1,11,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.64999962,60.65000153,0,0,91.01999664,151.6699982,Joined,Others,Others
+94978-PUN,Female,36,No,Punjab,2,8,None,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,19.45000076,69.25,0,0,8.340000153,77.58999634,Joined,Others,Others
+95053-UTT,Female,32,No,Uttar Pradesh,15,2,None,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.60000038,86.34999847,0,0,78.98999786,165.3399963,Joined,Others,Others
+95594-TAM,Female,64,No,Tamil Nadu,4,1,None,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44,44,0,0,15.65999985,59.65999985,Joined,Others,Others
+95735-PUN,Female,53,No,Punjab,10,21,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.25,48.34999847,0,0,42.36000061,90.70999908,Joined,Others,Others
+95748-UTT,Male,22,Yes,Uttar Pradesh,5,4,Deal 5,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,25.39999962,25.39999962,0,0,32.72999954,58.13000107,Joined,Others,Others
+95822-AND,Male,34,Yes,Andhra Pradesh,3,26,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.20000076,19.20000076,0,0,17.88999939,37.09000015,Joined,Others,Others
+95991-MAD,Female,37,Yes,Madhya Pradesh,0,32,None,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.25,152.3000031,0,0,84.56999969,236.8699951,Joined,Others,Others
+96430-PUN,Male,37,No,Punjab,0,23,None,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,48.75,48.75,0,0,26.26000023,75.01000214,Joined,Others,Others
+96967-CHH,Female,33,No,Chhattisgarh,5,8,None,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,89.34999847,89.34999847,0,0,5.360000134,94.70999908,Joined,Others,Others
+97427-JAM,Female,27,Yes,Jammu & Kashmir,9,2,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.35000038,20.35000038,0,0,29.86000061,50.20999908,Joined,Others,Others
+97497-RAJ,Male,24,Yes,Rajasthan,9,8,Deal 5,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.90000153,49.90000153,0,0,6.349999905,56.25,Joined,Others,Others
+97615-MAH,Female,23,Yes,Maharashtra,11,10,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.20000076,20.20000076,0,0,41.09999847,61.29999924,Joined,Others,Others
+97828-MAH,Female,57,No,Maharashtra,0,12,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,92,266.7999878,0,0,46.79999924,313.6000061,Joined,Others,Others
+98301-WES,Male,28,Yes,West Bengal,4,27,None,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,53.45000076,119.5,0,0,25.18000031,144.6799927,Joined,Others,Others
+98334-MAD,Male,67,Yes,Madhya Pradesh,15,20,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.20000076,65.94999695,0,0,95.43000031,161.3800049,Joined,Others,Others
+98767-WES,Female,26,No,West Bengal,14,7,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.04999924,20.04999924,0,0,11.10000038,31.14999962,Joined,Others,Others
+98788-TAM,Male,58,Yes,Tamil Nadu,4,16,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.04999924,39.25,0,0,13.69999981,52.95000076,Joined,Others,Others
+99144-UTT,Female,41,No,Uttar Pradesh,9,20,None,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.64999962,68.34999847,0,0,106.7699966,175.1199951,Joined,Others,Others
+99475-KAR,Male,22,Yes,Karnataka,11,11,None,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,51.54999924,106.1999969,0,0,37.22000122,143.4199982,Joined,Others,Others
+99488-KAR,Male,50,Yes,Karnataka,10,31,None,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,24.39999962,24.39999962,0,0,0,24.39999962,Joined,Others,Others
+99515-ASS,Male,34,No,Assam,11,11,None,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,65.25,209.8999939,0,0,128.0399933,337.9400024,Joined,Others,Others
+99855-MAH,Female,50,Yes,Maharashtra,5,29,None,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.69999695,135.1999969,0,0,31.34000015,166.5399933,Joined,Others,Others
+99862-BIH,Female,30,No,Bihar,12,9,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74,74,0,0,23.70000076,97.69999695,Joined,Others,Others
+99996-HAR,Male,22,Yes,Haryana,2,8,Deal 5,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Credit Card,53.54999924,53.54999924,0,0,16.05999947,69.61000061,Joined,Others,Others
