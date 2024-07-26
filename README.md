@@ -59,12 +59,10 @@ The predictions were loaded into Excel and then imported into Power BI to create
 The project successfully combined data analysis, ETL processes, predictive modeling, and data visualization to understand and predict customer churn in the telecom industry. The interactive dashboards and predictive models offer valuable insights for strategic decision-making.
 
 ### Files Links
-
-- **Data Cleaning and Exploration: Use the provided Excel file to clean and explore the dataset.
-- **ETL Process: Execute the SQL scripts to perform ETL operations.
-- **Power BI Dashboard: Open the Power BI file to interact with the dashboard.
-- **Churn Prediction: Run the Python script to generate churn predictions.
-- **Prediction Dashboard: Load the predictions into the Power BI dashboard for visualization.
+- **Files Related to Pridiction:** Download Predicted Files
+- **Power BI Dashboard PDF:** View Dashboard PDF
+- **Power Bi Dashboard Template:** Download Dashboard Template
+- **SQL Scripts(DDL&DML , Data Cleaning ,Distribution ,Views):** Download SQL Scripts
 
 ### Technologies Used
 
