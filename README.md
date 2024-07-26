@@ -4,20 +4,6 @@ This project is a comprehensive analysis and prediction of customer churn in the
 
 
 
-### Table of Contents
-
-[Project Overview](https://chatgpt.com/c/ff563cd7-5ae1-4d16-be22-36d487470d98#project-overview)
-Data Exploration and Cleaning
-ETL Process in SQL
-Interactive Dashboard in Power BI
-Churn Prediction with Python
-Prediction Dashboard in Power BI
-Conclusion
-How to Run
-Technologies Used
-
-
-
 ### 1) Project Overview
 
 The goal of this project is to analyze customer data to identify patterns and factors leading to churn, and to develop a predictive model to forecast future churn. The project is divided into several stages, each leveraging different tools and technologies to achieve the final outcome.
