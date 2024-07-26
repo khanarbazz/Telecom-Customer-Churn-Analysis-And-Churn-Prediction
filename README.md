@@ -59,10 +59,10 @@ The predictions were loaded into Excel and then imported into Power BI to create
 The project successfully combined data analysis, ETL processes, predictive modeling, and data visualization to understand and predict customer churn in the telecom industry. The interactive dashboards and predictive models offer valuable insights for strategic decision-making.
 
 ### Files Links
-- **Files Related to Pridiction:** Download Predicted Files
-- **Power BI Dashboard PDF:** View Dashboard PDF
-- **Power Bi Dashboard Template:** Download Dashboard Template
-- **SQL Scripts(DDL&DML , Data Cleaning ,Distribution ,Views):** Download SQL Scripts
+- **Files Related to Pridiction:** [Download Predicted Files](https://github.com/khanarbazz/Telecom-Customer-Churn-Analysis-And-Churn-Prediction/tree/main/Prediction%20Files)
+- **Power BI Dashboard PDF:** [View Dashboard PDF](https://github.com/khanarbazz/Telecom-Customer-Churn-Analysis-And-Churn-Prediction/blob/main/Telecom%20Customer%20Churn%20and%20Churn%20Prediction.pdf)
+- **Power Bi Dashboard Template:** [Download Dashboard Template](https://github.com/khanarbazz/Telecom-Customer-Churn-Analysis-And-Churn-Prediction/blob/main/Telecom%20Customer%20Churn%20and%20Churn%20Prediction.pbit)
+- **SQL Scripts(DDL&DML , Data Cleaning ,Distribution ,Views):** [Download SQL Scripts](https://github.com/khanarbazz/Telecom-Customer-Churn-Analysis-And-Churn-Prediction/tree/main/SQL%20Scripts)
 
 ### Technologies Used
 
