@@ -2,7 +2,7 @@
 
 This project is a comprehensive analysis and prediction of customer churn in the telecom industry. It combines data exploration, cleaning, ETL processes, and predictive modeling using various tools and technologies including SQL Server, Power BI, Excel, and Python.
 
-###Table of Contents
+### Table of Contents
 
 Project Overview
 Data Exploration and Cleaning
@@ -14,21 +14,21 @@ Conclusion
 How to Run
 Technologies Used
 
-###Project Overview
+### Project Overview
 
 The goal of this project is to analyze customer data to identify patterns and factors leading to churn, and to develop a predictive model to forecast future churn. The project is divided into several stages, each leveraging different tools and technologies to achieve the final outcome.
 Data Exploration and Cleaning
 
-###Initial data exploration and cleaning were performed using SQL to understand the dataset and prepare it for further processing.
+### Initial data exploration and cleaning were performed using SQL to understand the dataset and prepare it for further processing.
 Data Cleaning: Checking for missing values, duplicates, errors.
 Data Exploration: Explore data to understand the distribution.
 
-###ETL
+### ETL
 
 The data was imported into SQL Server where it was extracted. The transformation and loading processes were then executed in Power BI.
 
-Extraction: Imported data into SQL Server.
-Transformation and Loading: Applied various transformations to standardize and enrich the data, and loaded the transformed data into Power BI for analysis.
+- **Extraction:** Imported data into SQL Server.
+- **Transformation and Loading:** Applied various transformations to standardize and enrich the data, and loaded the transformed data into Power BI for analysis.
 
 ###Interactive Dashboard in Power BI
 
